@@ -1,0 +1,37 @@
+{
+    "id": "cb1ba4bb-a87f-4489-d371-8d33a34b3b6d",
+    "author": "",
+    "widgets": [
+        {
+            "id": "Hotel_Occupancy",
+            "name": "Hotel_Occupancy",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "Hotel_OccupancyLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "Hotel_OccupancyLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "Hotel_OccupancyLink",
+            "title": "Hotel_Occupancy"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "72c380ca-816b-4238-de79-6b882b415156",
+    "author": "Eutech",
+    "widgets": [
+        {
+            "id": "Hotel_Occupancy",
+            "name": "Hotel_Occupancy",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}
